@@ -2,7 +2,7 @@
 
 > This is a machine learning model for evaluation of people survived on titanic. 
 
-![alt text](data:https://www.history.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTU3OTIzNTgwNjg3NDI3MjE4/women-and-children-first-on-sinking-ships-its-every-man-for-himselfs-featured-photo.jpg "TITAIC")
+![alt text](https://www.history.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTU3OTIzNTgwNjg3NDI3MjE4/women-and-children-first-on-sinking-ships-its-every-man-for-himselfs-featured-photo.jpg "TITAIC")
 
 
 > It is based on labelled data so it is a supervised learning model where we uses regression technique to predict the estimated value of the houses with minimum errors.
